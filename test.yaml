@@ -17,4 +17,4 @@ nodeGroups:
     desiredCapacity: 1
     volumeSize: 8
     ssh:
-      publicKeyPath: publickey.pub
+      publicKeyPath: id_rsa.pub
